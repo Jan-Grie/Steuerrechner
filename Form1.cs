@@ -10,6 +10,15 @@ using System.Windows.Forms;
 
 namespace SteuerrechnerV1
 {
+    /*
+     ####Changelog####
+    Version     Date            Person      modification
+    1.0.0       17.11.2021      Jan Grie    Update and add a new function (Kirchensteuer)
+     
+     */
+   
+
+
     public partial class Form1 : Form
     {
         public Form1()
